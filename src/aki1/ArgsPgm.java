@@ -1,4 +1,4 @@
-package patterns;
+package aki1;
 import java.io.*;
 
 class ArgsPgm {

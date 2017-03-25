@@ -1,4 +1,4 @@
-package patterns;
+package aki1;
 
 public class PrntPattrn {
 	public static void main( String[] args ){

@@ -1,3 +1,5 @@
+package aki1;
+
 
 public class cast {
 public static void main(String args[])

@@ -1,3 +1,5 @@
+package aki1;
+
 import java.util.*;
 import java.io.*;
  class Emm
@@ -69,7 +71,7 @@ import java.io.*;
 	}
 
 
-public class Emmtest
+public class Emtest
 {
 	public static void main(String[]args)
 	{

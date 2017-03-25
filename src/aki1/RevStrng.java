@@ -1,4 +1,4 @@
-package patterns;
+package aki1;
 import java.io.*;
 import java.io.BufferedReader;
 

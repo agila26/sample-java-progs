@@ -8,7 +8,7 @@ public class Methsargs {
 		{
 			int i;
 			System.out.println("Enter the number");
-			System.in(i);
+			//System.in(i);
 			 divisibleBy5(5);
 			
 		}
